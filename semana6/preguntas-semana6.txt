@@ -8,4 +8,4 @@ Pregunta 3:
 Respuesta: B. req.body
 
 Pregunta 4:
-Respuesta: C. { "nombre": "Juan" }
+Respuesta: C. { "nombre": "isabel castro " }
