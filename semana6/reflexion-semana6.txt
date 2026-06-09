@@ -1,0 +1,8 @@
+Es importante que las plataformas tecnológicas puedan recibir reportes enviados
+por los ciudadanos de forma estructurada porque esto permite organizar mejor la
+información. El uso de formatos como JSON facilita que los datos sean claros y
+ordenados. Además, ayuda a que los sistemas procesen la información de manera
+más rápida y eficiente. Cuando los datos llegan bien definidos, se reducen
+errores y se mejora la toma de decisiones. También se fortalece la participación
+ciudadana. Finalmente, una estructura adecuada permite dar seguimiento y
+promueve la transparencia.
